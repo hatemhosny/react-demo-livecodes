@@ -15,5 +15,3 @@ function Counter(props) {
 export default function App() {
   return <Counter name="React" />;
 }
-
-console.log('hi')
