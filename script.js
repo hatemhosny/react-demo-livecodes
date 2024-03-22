@@ -7,3 +7,4 @@ function Counter(props) {
 export default function App() {
     return _jsx(Counter, { name: "React" });
 }
+console.log('hi');
